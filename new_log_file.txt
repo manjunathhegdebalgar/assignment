@@ -1,0 +1,34 @@
+06/01/2021 11:16:17  WindowManager:printFreezingDisplayLogsopening app wtoken = AppWindowToken{9f4ef63token=Token{a64f992 ActivityRecord{de9231d u0com.tencent.qt.qtl/.activity.info.NewsDetailXmlActivity t761}}},
+06/01/2021 11:16:17  allDrawn= false,startingDisplayed =  false, startingMoved =  false, isRelaunching =  false2021-01-06 06:35:13,838 11338 question8.py 135 log-generator DEBUG line by the Python code
+2021-01-06 06:35:14,531 11338 question8.py 135 log-generator DEBUG Thiis file is read line by
+2021-01-06 06:35:15,156 11338 question8.py 135 log-generator DEBUG and each line is stored
+2021-01-06 06:35:16,140 11338 question8.py 135 log-generator DEBUG and each line is stored
+2021-01-06 06:35:16,552 11338 question8.py 135 log-generator DEBUG and each line is stored
+2021-01-06 06:35:16,752 11338 question8.py 135 log-generator DEBUG named questionq.py
+2021-01-06 06:35:17,336 11338 question8.py 135 log-generator DEBUG named questionq.py
+2021-01-06 06:35:18,97 11338 question8.py 135 log-generator DEBUG Thiis file is read line by
+2021-01-06 06:35:18,868 11338 question8.py 135 log-generator DEBUG named questionq.py
+2021-01-06 06:35:19,676 11338 question8.py 135 log-generator DEBUG line by the Python code
+2021-01-06 06:35:21,461 11338 question8.py 135 log-generator DEBUG and each line is stored
+2021-01-06 06:35:21,596 11338 question8.py 135 log-generator DEBUG line by the Python code
+2021-01-06 06:35:22,545 11338 question8.py 135 log-generator DEBUG Thiis file is read line by
+2021-01-06 06:35:23,471 11338 question8.py 135 log-generator DEBUG and each line is stored
+2021-01-06 06:35:24,600 11338 question8.py 135 log-generator DEBUG Thiis file is read line by
+2021-01-06 06:35:25,5 11338 question8.py 135 log-generator DEBUG named questionq.py
+2021-01-06 06:35:25,127 11338 question8.py 135 log-generator DEBUG and each line is stored
+2021-01-06 06:35:25,522 11338 question8.py 135 log-generator DEBUG line by the Python code
+2021-01-06 06:35:26,235 11338 question8.py 135 log-generator DEBUG Thiis file is read line by
+2021-01-06 06:35:27,326 11338 question8.py 135 log-generator DEBUG line by the Python code
+2021-01-06 06:35:29,210 11338 question8.py 135 log-generator DEBUG line by the Python code
+2021-01-06 06:35:30,14 11338 question8.py 135 log-generator DEBUG Thiis file is read line by
+2021-01-06 06:35:30,393 11338 question8.py 135 log-generator DEBUG named questionq.py
+2021-01-06 06:35:30,616 11338 question8.py 135 log-generator DEBUG named questionq.py
+2021-01-06 06:35:33,852 11338 question8.py 135 log-generator DEBUG named questionq.py
+2021-01-06 06:35:34,678 11338 question8.py 135 log-generator DEBUG named questionq.py
+2021-01-06 06:35:35,449 11338 question8.py 135 log-generator DEBUG line by the Python code
+2021-01-06 06:35:36,446 11338 question8.py 135 log-generator DEBUG named questionq.py
+2021-01-06 06:35:36,592 11338 question8.py 135 log-generator DEBUG and each line is stored
+2021-01-06 06:35:37,115 11338 question8.py 135 log-generator DEBUG named questionq.py
+2021-01-06 06:35:38,134 11338 question8.py 135 log-generator DEBUG Thiis file is read line by
+2021-01-06 06:35:38,975 11338 question8.py 135 log-generator DEBUG Thiis file is read line by
+2021-01-06 06:35:39,365 11338 question8.py 135 log-generator DEBUG and each line is stored

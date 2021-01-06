@@ -1,0 +1,2 @@
+ WindowManager:printFreezingDisplayLogsopening app wtoken = AppWindowToken{9f4ef63token=Token{a64f992 ActivityRecord{de9231d u0com.tencent.qt.qtl/.activity.info.NewsDetailXmlActivity t761}}},
+ allDrawn= false,startingDisplayed =  false, startingMoved =  false, isRelaunching =  false
